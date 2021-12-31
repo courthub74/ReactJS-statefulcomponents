@@ -5,10 +5,9 @@ class Users extends Component {
     render() {
         return (
             <div>
-                <User/>
-                <User/>
-                <User/>
-                <User/>
+                <User>John</User>
+                <User>Jill</User>
+                <User>Peter</User>
             </div>
         )
     }
